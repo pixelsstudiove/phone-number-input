@@ -15,6 +15,7 @@
 import type { Country } from "./types";
 
 const allCountries = [
+  
     [
       'Albania (Shqipëri)',
       'al',
