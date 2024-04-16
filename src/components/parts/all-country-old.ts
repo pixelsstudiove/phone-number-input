@@ -1,3 +1,4 @@
+
 // Array of country objects for the flag dropdown.
 
 // Here is the criteria for the plugin to support a given country/territory
@@ -15,6 +16,11 @@
 import type { Country } from "./types";
 
 const allCountries = [
+    [
+      'Afghanistan (‫افغانستان‬‎)',
+      'af',
+      '93',
+    ],
     [
       'Albania (Shqipëri)',
       'al',
